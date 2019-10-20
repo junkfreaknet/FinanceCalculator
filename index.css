@@ -18,4 +18,8 @@
   label {
     color:blue;
   }
+}@media screen and (max-width:1440px) {
+  label {
+    color:green;
+  }
 }
