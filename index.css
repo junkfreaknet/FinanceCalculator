@@ -1,0 +1,21 @@
+/*
+  STANDARD
+*/
+/*
+  MOBILE
+*/
+@media screen and (min-width:480px) {
+  label {
+    color:red;
+  }
+}
+@media screen and (min-width:768px) abs (max-width:1024px) {
+  label {
+    color:yellow;
+  }
+}
+@media screen and (min-width:1024px) {
+  label {
+    color:blue;
+  }
+}
