@@ -17,9 +17,11 @@
 @media screen and (min-width:1024px) {
   label {
     color:blue;
+    font-size:mideum;
   }
 }@media screen and (max-width:1440px) {
   label {
     color:green;
+    font-size: large;
   }
 }
